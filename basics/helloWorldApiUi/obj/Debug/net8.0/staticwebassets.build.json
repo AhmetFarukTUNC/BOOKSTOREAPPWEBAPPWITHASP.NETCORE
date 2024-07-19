@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WAPM7cdcDttHhw9kcpG2h3SCb6COi8arLmtIXXMBLVI=",
+  "Source": "helloWorldApiUi",
+  "BasePath": "_content/helloWorldApiUi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZBLXOC+5I9+z5fScGvyZTpAUcTmjl+fnr4bB1NGAwhw=",
+  "Source": "helloWorldCli",
+  "BasePath": "_content/helloWorldCli",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

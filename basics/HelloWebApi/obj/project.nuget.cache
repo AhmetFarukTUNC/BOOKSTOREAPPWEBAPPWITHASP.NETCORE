@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jeo5FqEMmes1TntEOKcbx4Uocr3VkdY8IgjsjejVzIlbX27pojEzEIjNmc0DJKmez8tIlsUaRL5pwfE/H80Scw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Monster\\Desktop\\basics\\HelloWebApi\\HelloWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
