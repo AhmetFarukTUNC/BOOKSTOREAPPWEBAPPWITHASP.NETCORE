@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bookDemo", "..\..\Documents\GitHub\asp.net-core-ile-web-api\bookDemo\bookDemo.csproj", "{1679F7A2-094F-4B36-A245-0235FFD596E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1679F7A2-094F-4B36-A245-0235FFD596E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1679F7A2-094F-4B36-A245-0235FFD596E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1679F7A2-094F-4B36-A245-0235FFD596E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1679F7A2-094F-4B36-A245-0235FFD596E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {510C7B44-DC9F-41CB-9BCB-B3EDA25CD61C}
+	EndGlobalSection
+EndGlobal
