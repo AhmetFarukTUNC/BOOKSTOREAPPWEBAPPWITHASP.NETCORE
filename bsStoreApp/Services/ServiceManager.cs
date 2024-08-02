@@ -1,0 +1,23 @@
+﻿using Repositories.Contracts;
+using Services.Contract;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Services
+{
+    public class ServiceManager : IServiceManager
+    {
+
+        private readonly Lazy<IBookService> _bookService; // lazy loading defining
+
+        public ServiceManager(IRepositoryManger repositoryManger)
+        {
+            _bookService = new Lazy<IBookService>(() => new BookManager(repositoryManger));
+        }
+
+        public IBookService BookService => _bookService.Value;
+    }
+}

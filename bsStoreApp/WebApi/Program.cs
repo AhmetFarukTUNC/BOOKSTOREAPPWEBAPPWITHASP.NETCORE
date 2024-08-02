@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using WebApi.Repositories;
+using Repositories.EF;
+using WebApi.Extensions;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,12 +12,11 @@ builder.Services.AddControllers().AddNewtonsoftJson();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<RepositoryContext>(
-    
-    options =>
-       options.UseSqlServer(builder.Configuration.GetConnectionString("sqlConnection"))
+builder.Services.ConfigureSqlContext(builder.Configuration);
 
-    );
+builder.Services.ConfigurationRepositoryManager(); 
+
+builder.Services.ConfigurationServiceManager();
 
 var app = builder.Build();
 
