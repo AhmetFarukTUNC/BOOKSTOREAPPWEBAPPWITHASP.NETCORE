@@ -1,0 +1,490 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\",
+  "Documents": [
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|c:\\users\\monster\\documents\\github\\asp.net-core-ile-web-api\\bsstoreapp\\webapi\\contextfactory\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\contextfactory\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\Migrations\\20240803085533_startPoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApi\\Migrations\\20240803085533_startPoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|c:\\users\\monster\\documents\\github\\asp.net-core-ile-web-api\\bsstoreapp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308DD231-032C-4AE8-93D2-0CB6FBB35E7E}|Presentation\\Presentation.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\presentation\\controller\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308DD231-032C-4AE8-93D2-0CB6FBB35E7E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308DD231-032C-4AE8-93D2-0CB6FBB35E7E}|Presentation\\Presentation.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{308DD231-032C-4AE8-93D2-0CB6FBB35E7E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\webapi\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\repositories\\efcore\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\repositories\\efcore\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\repositories\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\repositories\\contracts\\irepositorymanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|c:\\users\\monster\\documents\\github\\asp.net-core-ile-web-api\\bsstoreapp\\webapi\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|c:\\users\\monster\\documents\\github\\asp.net-core-ile-web-api\\bsstoreapp\\repositories\\efcore\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|c:\\users\\monster\\documents\\github\\asp.net-core-ile-web-api\\bsstoreapp\\repositories\\efcore\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|c:\\users\\monster\\documents\\github\\asp.net-core-ile-web-api\\bsstoreapp\\repositories\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|c:\\users\\monster\\documents\\github\\asp.net-core-ile-web-api\\bsstoreapp\\repositories\\contracts\\irepositorymanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+      "RelativeMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorymanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\repositories\\efcore\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\repositories\\efcore\\config\\bookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\bookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56C49845-9FF6-4688-B856-4CA2FA8D8771}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55175D52-DE57-4086-B28B-DA687E03D865}|Entities\\Entities.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\entities\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55175D52-DE57-4086-B28B-DA687E03D865}|Entities\\Entities.csproj|solutionrelative:entities\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/bsStoreApp/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Monster\\Desktop\\bsStoreApp\\WebApi\\Migrations\\20240801070933_seedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECFAD80E-5FFA-4E5A-89DE-FB1B9A60DCCB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\monster\\documents\\github\\asp.net-core-ile-web-api\\bookdemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+<<<<<<< HEAD
+              "Title": "RepositoryContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\ContextFactory\\RepositoryContextFactory.cs",
+              "RelativeDocumentMoniker": "WebApi\\ContextFactory\\RepositoryContextFactory.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\ContextFactory\\RepositoryContextFactory.cs",
+              "RelativeToolTip": "WebApi\\ContextFactory\\RepositoryContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:57:33.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240803085533_startPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\Migrations\\20240803085533_startPoint.cs",
+              "RelativeDocumentMoniker": "WebApi\\Migrations\\20240803085533_startPoint.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\Migrations\\20240803085533_startPoint.cs",
+              "RelativeToolTip": "WebApi\\Migrations\\20240803085533_startPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:55:33.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:48:48.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+=======
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "ServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\Extensions\\ServicesExtensions.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\ServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\Extensions\\ServicesExtensions.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\ServicesExtensions.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2024-08-02T14:18:39.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T20:33:37.764Z",
+=======
+              "WhenOpened": "2024-08-02T14:18:39.687Z",
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 5,
+              "Title": "Presentation",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T06:38:50.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+=======
+              "DocumentIndex": 2,
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\EFCore\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\EFCore\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\BookRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2024-08-02T14:12:24.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+=======
+              "WhenOpened": "2024-08-02T14:12:24.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwE8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:30:54.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\EFCore\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\EFCore\\RepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryBase.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2024-08-02T08:51:53.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+=======
+              "WhenOpened": "2024-08-02T08:51:53.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\Contracts\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\Contracts\\IBookRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IBookRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2024-08-02T11:11:34.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+=======
+              "WhenOpened": "2024-08-02T11:11:34.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "IRepositoryManger.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\Contracts\\IRepositoryManger.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryManger.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\Contracts\\IRepositoryManger.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryManger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2024-08-02T11:38:11.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Presentation\\Controller\\BooksController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Presentation\\Controller\\BooksController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\BooksController.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAKoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:43:25.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+=======
+              "WhenOpened": "2024-08-02T11:38:11.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2024-08-02T07:16:57.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+=======
+              "WhenOpened": "2024-08-02T07:16:57.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "BookConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\EFCore\\Config\\BookConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\BookConfig.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\EFCore\\Config\\BookConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\BookConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:31:55.175Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 12,
+=======
+              "DocumentIndex": 7,
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\EFCore\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\EFCore\\RepositoryContext.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:27:55.314Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 14,
+=======
+              "DocumentIndex": 9,
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+<<<<<<< HEAD
+              "WhenOpened": "2024-08-02T07:14:42.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+=======
+              "WhenOpened": "2024-08-02T07:14:42.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Entities\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\Entities\\Models\\Book.cs",
+              "RelativeToolTip": "Entities\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:53:19.341Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 18,
+=======
+              "DocumentIndex": 14,
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bookDemo\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "..\\bookDemo\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bookDemo\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "..\\bookDemo\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJ0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:00:06.182Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 16,
+=======
+              "DocumentIndex": 11,
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/bsStoreApp/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-01T08:59:36.53Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 17,
+=======
+              "DocumentIndex": 12,
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+              "Title": "20240801070933_seedData.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\bsStoreApp\\WebApi\\Migrations\\20240801070933_seedData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\bsStoreApp\\WebApi\\Migrations\\20240801070933_seedData.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\bsStoreApp\\WebApi\\Migrations\\20240801070933_seedData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\bsStoreApp\\WebApi\\Migrations\\20240801070933_seedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:09:34.463Z"
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\asp.net-core-ile-web-api\\bsStoreApp\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T20:33:37.764Z"
+>>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
