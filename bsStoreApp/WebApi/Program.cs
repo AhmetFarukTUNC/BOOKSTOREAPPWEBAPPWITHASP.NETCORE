@@ -1,30 +1,27 @@
 using Microsoft.EntityFrameworkCore;
-using Repositories.EF;
+using NLog;
+using Repositories.EFCore;
 using WebApi.Extensions;
-
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(),"/nlog.config"));
 
-<<<<<<< HEAD
-builder.Services.AddControllers().AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly).AddNewtonsoftJson();
-=======
-builder.Services.AddControllers().AddNewtonsoftJson();
->>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddControllers()
+    .AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly)
+    .AddNewtonsoftJson();
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.ConfigureSqlContext(builder.Configuration);
+builder.Services.ConfigureRepositoryManager();
+builder.Services.ConfigureServiceManager();
+builder.Services.ConfigureLoggerService();
 
-builder.Services.ConfigurationRepositoryManager(); 
-
-builder.Services.ConfigurationServiceManager();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

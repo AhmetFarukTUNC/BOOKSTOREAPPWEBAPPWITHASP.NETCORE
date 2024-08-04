@@ -1,18 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.7" />
-<<<<<<< HEAD
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.7" />
-=======
->>>>>>> 9f3cb582deb96204747379270afb54ed57b90b9d
-    <PackageReference Include="NPOI" Version="2.7.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
   </ItemGroup>
 
   <ItemGroup>

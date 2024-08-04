@@ -1,7 +1,5 @@
 ﻿using Entities.Models;
 using Repositories.Contracts;
-using Repositories.EF;
-using SixLabors.ImageSharp.Processing.Processors.Transforms;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,17 +12,17 @@ namespace Repositories.EFCore
     {
         public BookRepository(RepositoryContext context) : base(context)
         {
+            
         }
 
         public void CreateOneBook(Book book) => Create(book);
-
         public void DeleteOneBook(Book book) => Delete(book);
-
-        public IQueryable<Book> GetAllBooks(bool trackChanges) => FindAll(trackChanges);
-
+        public IQueryable<Book> GetAllBooks(bool trackChanges) =>
+            FindAll(trackChanges)
+            .OrderBy(b => b.Id);
         public Book GetOneBookById(int id, bool trackChanges) =>
-            FindByCondition(b => b.Id.Equals(id), trackChanges).SingleOrDefault();
-
+            FindByCondition(b => b.Id.Equals(id), trackChanges)
+            .SingleOrDefault();
         public void UpdateOneBook(Book book) => Update(book);
     }
 }
