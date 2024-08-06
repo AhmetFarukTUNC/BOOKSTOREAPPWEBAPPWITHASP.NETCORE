@@ -7,18 +7,3 @@
 2024-08-04 12:17:40.1386 Info Message Template Auto Format enabled
 2024-08-04 12:17:40.2239 Info Adding target FileTarget(Name=logfile)
 2024-08-04 12:17:40.2508 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atunc\OneDrive\Masaüstü\bsStoreApp\WebApi\nlog.config
-2024-08-05 16:27:13.0456 Info Message Template Auto Format enabled
-2024-08-05 16:27:13.2205 Info Adding target FileTarget(Name=logfile)
-2024-08-05 16:27:13.2555 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atunc\OneDrive\Masaüstü\bsStoreApp\WebApi\nlog.config
-2024-08-05 16:29:02.0908 Info Message Template Auto Format enabled
-2024-08-05 16:29:02.1620 Info Adding target FileTarget(Name=logfile)
-2024-08-05 16:29:02.1830 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atunc\OneDrive\Masaüstü\bsStoreApp\WebApi\nlog.config
-2024-08-05 21:51:08.7144 Info Message Template Auto Format enabled
-2024-08-05 21:51:08.7853 Info Adding target FileTarget(Name=logfile)
-2024-08-05 21:51:08.8091 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atunc\OneDrive\Masaüstü\bsStoreApp\WebApi\nlog.config
-2024-08-05 22:16:04.3997 Info Message Template Auto Format enabled
-2024-08-05 22:16:04.4787 Info Adding target FileTarget(Name=logfile)
-2024-08-05 22:16:04.5012 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atunc\OneDrive\Masaüstü\bsStoreApp\WebApi\nlog.config
-2024-08-05 22:57:24.9955 Info Message Template Auto Format enabled
-2024-08-05 22:57:25.0872 Info Adding target FileTarget(Name=logfile)
-2024-08-05 22:57:25.1108 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atunc\OneDrive\Masaüstü\bsStoreApp\WebApi\nlog.config
