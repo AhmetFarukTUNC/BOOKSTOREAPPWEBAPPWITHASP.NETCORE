@@ -1,6 +1,0 @@
-C:\Users\Monster\Documents\GitHub\asp.net-core-ile-web-api\bsStoreApp\Entities\bin\Debug\Entities.dll
-C:\Users\Monster\Documents\GitHub\asp.net-core-ile-web-api\bsStoreApp\Entities\bin\Debug\Entities.pdb
-C:\Users\Monster\Documents\GitHub\asp.net-core-ile-web-api\bsStoreApp\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
-C:\Users\Monster\Documents\GitHub\asp.net-core-ile-web-api\bsStoreApp\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
-C:\Users\Monster\Documents\GitHub\asp.net-core-ile-web-api\bsStoreApp\Entities\obj\Debug\Entities.dll
-C:\Users\Monster\Documents\GitHub\asp.net-core-ile-web-api\bsStoreApp\Entities\obj\Debug\Entities.pdb

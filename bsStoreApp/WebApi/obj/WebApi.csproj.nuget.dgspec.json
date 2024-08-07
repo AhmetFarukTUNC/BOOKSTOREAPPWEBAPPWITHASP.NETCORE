@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\WebApi\\WebApi.csproj": {}
+    "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Entities\\Entities.csproj": {
+    "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Entities\\Entities.csproj",
+        "projectUniqueName": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\atunc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Entities\\obj\\",
+        "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\zafer\\.nuget\\packages\\",
+        "outputPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\atunc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zafer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,26 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.AspNet.Identity.EntityFramework": {
-              "target": "Package",
-              "version": "[2.2.4, )"
-            },
-            "Microsoft.AspNetCore.Http.Abstractions": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -71,21 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Presentation\\Presentation.csproj": {
+    "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Presentation\\Presentation.csproj",
-        "packagesPath": "C:\\Users\\atunc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Presentation\\obj\\",
+        "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Presentation\\Presentation.csproj",
+        "packagesPath": "C:\\Users\\zafer\\.nuget\\packages\\",
+        "outputPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\atunc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zafer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,15 +77,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Services\\Services.csproj"
+              "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj": {
+                "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj"
               }
             }
           }
@@ -110,11 +93,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -146,21 +124,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Repositories\\Repositories.csproj": {
+    "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\atunc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Repositories\\obj\\",
+        "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\zafer\\.nuget\\packages\\",
+        "outputPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\atunc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zafer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,15 +146,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Entities\\Entities.csproj"
+              "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj"
               }
             }
           }
@@ -185,21 +162,12 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNet.Identity.EntityFramework": {
-              "target": "Package",
-              "version": "[2.2.4, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -221,21 +189,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Services\\Services.csproj": {
+    "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Services\\Services.csproj",
+        "projectUniqueName": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\atunc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Services\\obj\\",
+        "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\zafer\\.nuget\\packages\\",
+        "outputPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\atunc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zafer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -243,18 +211,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Entities\\Entities.csproj"
+              "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Repositories\\Repositories.csproj"
+              "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj": {
+                "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -263,32 +230,19 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
-            "Microsoft.AspNetCore.Authentication.Abstractions": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "NLog.Extensions.Logging": {
               "target": "Package",
               "version": "[5.1.0, )"
             },
-            "System.IdentityModel.Tokens.Jwt": {
+            "automapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[6.8.0, )"
+              "version": "[12.0.0, )"
             }
           },
           "imports": [
@@ -307,21 +261,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\WebApi\\WebApi.csproj": {
+    "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\atunc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\WebApi\\obj\\",
+        "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\zafer\\.nuget\\packages\\",
+        "outputPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\atunc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zafer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -329,24 +283,23 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Entities\\Entities.csproj"
+              "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Presentation\\Presentation.csproj": {
-                "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Presentation\\Presentation.csproj"
+              "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Presentation\\Presentation.csproj": {
+                "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Presentation\\Presentation.csproj"
               },
-              "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Repositories\\Repositories.csproj"
+              "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj": {
+                "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj"
               },
-              "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\bsStoreApp\\Services\\Services.csproj"
+              "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj": {
+                "projectPath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj"
               }
             }
           }
@@ -355,11 +308,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -414,7 +362,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

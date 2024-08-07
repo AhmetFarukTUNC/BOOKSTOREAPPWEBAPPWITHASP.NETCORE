@@ -1,2 +1,0 @@
-2024-08-04 11:43:32.7245 INFO Book with id:100 could not found.
-2024-08-04 11:47:24.7834 INFO Book with id:100 could not found.
