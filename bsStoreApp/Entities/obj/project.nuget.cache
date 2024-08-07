@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T0skLQOJw2gyvMZs4lF3Hd65TGlA3EvzLj4amQWQikHCQpDsRlZLjzJt92ukb9UXMEEo7SVzNgcPxKOUlQoX6Q==",
+  "dgSpecHash": "QyfPV91/rho=",
   "success": true,
-  "projectFilePath": "F:\\Courses\\AspDotnetCoreWebApi\\Applications\\bsStoreApp\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\asp.net-core-ile-web-api\\bsStoreApp\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

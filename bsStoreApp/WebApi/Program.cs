@@ -8,7 +8,17 @@ var builder = WebApplication.CreateBuilder(args);
 
 LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(),"/nlog.config"));
 
-builder.Services.AddControllers()
+builder.Services.AddControllers(config =>
+{
+
+    config.RespectBrowserAcceptHeader = true;
+
+    config.ReturnHttpNotAcceptable = true;
+
+}
+
+).AddXmlDataContractSerializerFormatters()
+.AddCustomCsvFormatter()
     .AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly)
     .AddNewtonsoftJson();
 
