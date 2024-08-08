@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NLog;
 using Repositories.EFCore;
@@ -10,17 +11,19 @@ LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(),"/nlo
 
 builder.Services.AddControllers(config =>
 {
-
     config.RespectBrowserAcceptHeader = true;
-
     config.ReturnHttpNotAcceptable = true;
-
-}
-
-).AddXmlDataContractSerializerFormatters()
+})
 .AddCustomCsvFormatter()
-    .AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly)
-    .AddNewtonsoftJson();
+.AddXmlDataContractSerializerFormatters()
+.AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly)
+.AddNewtonsoftJson();
+
+builder.Services.Configure<ApiBehaviorOptions>(options =>
+{
+    options.SuppressModelStateInvalidFilter = true;
+});
+
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
