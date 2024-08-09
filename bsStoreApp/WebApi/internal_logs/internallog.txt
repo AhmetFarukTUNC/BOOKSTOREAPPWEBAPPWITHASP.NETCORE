@@ -149,3 +149,6 @@
 2024-08-08 18:03:09.2079 Info Message Template Auto Format enabled
 2024-08-08 18:03:09.2845 Info Adding target FileTarget(Name=logfile)
 2024-08-08 18:03:09.2845 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\nlog.config
+2024-08-09 14:22:23.7588 Info Message Template Auto Format enabled
+2024-08-09 14:22:23.8759 Info Adding target FileTarget(Name=logfile)
+2024-08-09 14:22:23.8994 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\nlog.config
