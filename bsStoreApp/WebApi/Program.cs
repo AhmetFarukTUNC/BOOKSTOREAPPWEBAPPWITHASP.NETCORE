@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using Microsoft.EntityFrameworkCore;
 using NLog;
+using Presentation.ActionFilters;
 using Repositories.EFCore;
 using Services.Contracts;
 using WebApi.Extensions;
@@ -18,6 +20,8 @@ builder.Services.AddControllers(config =>
 .AddXmlDataContractSerializerFormatters()
 .AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly)
 .AddNewtonsoftJson();
+
+builder.Services.ConfigureActionFilters();
 
 builder.Services.Configure<ApiBehaviorOptions>(options =>
 {
