@@ -24,28 +24,22 @@ namespace WebApi.Extensions
 
         public static void ConfigureActionFilters(this IServiceCollection services)
         {
-
-            services.AddScoped<ValidationFilterAttributes>();
-
+            services.AddScoped<ValidationFilterAttribute>();
             services.AddSingleton<LogFilterAttribute>();
+        } 
 
-        }
-
-        public static void ConfigureCors(this IServiceCollection services) 
+        public static void ConfigureCors(this IServiceCollection services)
         {
-        
             services.AddCors(options =>
             {
-                options.AddPolicy("CorsPolicy", builder =>
-                {
+                options.AddPolicy("CorsPolicy", builder => 
                     builder.AllowAnyOrigin()
                     .AllowAnyMethod()
-                    .WithExposedHeaders("X-Pagination");
-                });
+                    .AllowAnyHeader()
+                    .WithExposedHeaders("X-Pagination")
+                );
             });
-            
         }
-
 
     }
 }

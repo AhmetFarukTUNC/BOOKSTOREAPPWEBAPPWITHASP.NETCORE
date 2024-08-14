@@ -2,6 +2,7 @@
 using Entities.RequestFeatures;
 using Microsoft.EntityFrameworkCore;
 using Repositories.Contracts;
+using Repositories.EFCore.Extensions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,11 +20,13 @@ namespace Repositories.EFCore
 
         public void CreateOneBook(Book book) => Create(book);
         public void DeleteOneBook(Book book) => Delete(book);
-        public async Task<PagedList<Book>> GetAllBooksAsync(BookParameters bookParameters, bool trackChanges)
+        public async Task<PagedList<Book>> GetAllBooksAsync(BookParameters bookParameters,
+            bool trackChanges)
         {
             var books = await FindAll(trackChanges)
-                .FiltersBooks(bookParameters.Minprice, bookParameters.Maxprice)
-                .OrderBy(b => b.Id) 
+                .FilterBooks(bookParameters.MinPrice, bookParameters.MaxPrice)
+                .Search(bookParameters.SearchTerm)
+                .OrderBy(b => b.Id)
                 .ToListAsync();
 
             return PagedList<Book>
@@ -31,6 +34,7 @@ namespace Repositories.EFCore
                 bookParameters.PageNumber, 
                 bookParameters.PageSize);
         }
+
         public async Task<Book> GetOneBookByIdAsync(int id, bool trackChanges) =>
             await FindByCondition(b => b.Id.Equals(id), trackChanges)
             .SingleOrDefaultAsync();

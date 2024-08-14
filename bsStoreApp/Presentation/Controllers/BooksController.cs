@@ -29,9 +29,12 @@ namespace Presentation.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllBooksAsync([FromQuery] BookParameters bookParameters)
         {
-            var pagedResult = await _manager.BookService.GetAllBooksAsync(bookParameters,false);
+            var pagedResult = await _manager
+                .BookService
+                .GetAllBooksAsync(bookParameters,false);
 
-            Response.Headers.Add("X-Pagination",JsonSerializer.Serialize(pagedResult.metaData));
+            Response.Headers.Add("X-Pagination", 
+                JsonSerializer.Serialize(pagedResult.metaData));
 
             return Ok(pagedResult.books);
         }
@@ -46,27 +49,20 @@ namespace Presentation.Controllers
             return Ok(book);
         }
 
-        [ServiceFilter(typeof(ValidationFilterAttributes))]
-
+        [ServiceFilter(typeof(ValidationFilterAttribute))]
         [HttpPost]
         public async Task<IActionResult> CreateOneBookAsync([FromBody] BookDtoForInsertion bookDto)
         {
-
             var book = await _manager.BookService.CreateOneBookAsync(bookDto);
-
             return StatusCode(201, book); // CreatedAtRoute()
         }
 
-        [ServiceFilter(typeof(ValidationFilterAttributes))]
-
         
-
+        [ServiceFilter(typeof(ValidationFilterAttribute))]
         [HttpPut("{id:int}")]
         public async Task<IActionResult> UpdateOneBookAsync([FromRoute(Name = "id")] int id,
             [FromBody] BookDtoForUpdate bookDto)
         {
-            
-
             await _manager.BookService.UpdateOneBookAsync(id, bookDto, false);
             return NoContent(); // 204
         }
