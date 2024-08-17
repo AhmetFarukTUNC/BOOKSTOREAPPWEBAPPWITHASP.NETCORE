@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QyfPV91/rho=",
+  "dgSpecHash": "aSSUH/x9VLs=",
   "success": true,
   "projectFilePath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\asp.net-core-ile-web-api\\bsStoreApp\\Entities\\Entities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\atunc\\.nuget\\packages\\system.linq.dynamic.core\\1.4.4\\system.linq.dynamic.core.1.4.4.nupkg.sha512"
+  ],
   "logs": []
 }

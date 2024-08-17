@@ -16,7 +16,8 @@
           "Presentation": "1.0.0",
           "Repositories": "1.0.0",
           "Services": "1.0.0",
-          "Swashbuckle.AspNetCore": "6.2.3"
+          "Swashbuckle.AspNetCore": "6.2.3",
+          "System.Linq.Dynamic.Core": "1.4.4"
         },
         "runtime": {
           "WebApi.dll": {}
@@ -746,6 +747,14 @@
           "System.Runtime.Extensions": "4.1.0"
         }
       },
+      "System.Linq.Dynamic.Core/1.4.4": {
+        "runtime": {
+          "lib/net6.0/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.4.4.0",
+            "fileVersion": "1.4.4.0"
+          }
+        }
+      },
       "System.Linq.Expressions/4.1.0": {
         "dependencies": {
           "System.Collections": "4.0.11",
@@ -983,6 +992,9 @@
         }
       },
       "Entities/1.0.0": {
+        "dependencies": {
+          "System.Linq.Dynamic.Core": "1.4.4"
+        },
         "runtime": {
           "Entities.dll": {}
         }
@@ -992,7 +1004,8 @@
           "Microsoft.AspNetCore.JsonPatch": "6.0.10",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "6.0.0",
-          "Services": "1.0.0"
+          "Services": "1.0.0",
+          "System.Linq.Dynamic.Core": "1.4.4"
         },
         "runtime": {
           "Presentation.dll": {}
@@ -1001,7 +1014,8 @@
       "Repositories/1.0.0": {
         "dependencies": {
           "Entities": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "6.0.0"
+          "Microsoft.EntityFrameworkCore": "6.0.0",
+          "System.Linq.Dynamic.Core": "1.4.4"
         },
         "runtime": {
           "Repositories.dll": {}
@@ -1012,6 +1026,7 @@
           "Entities": "1.0.0",
           "NLog.Extensions.Logging": "5.1.0",
           "Repositories": "1.0.0",
+          "System.Linq.Dynamic.Core": "1.4.4",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0"
         },
         "runtime": {
@@ -1599,6 +1614,13 @@
       "sha512": "sha512-bQ0iYFOQI0nuTnt+NQADns6ucV4DUvMdwN6CbkB1yj8i7arTGiTN5eok1kQwdnnNWSDZfIUySQY+J3d5KjWn0g==",
       "path": "system.linq/4.1.0",
       "hashPath": "system.linq.4.1.0.nupkg.sha512"
+    },
+    "System.Linq.Dynamic.Core/1.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H7WMBX/WNdG38QLwvuD26EcsIjiP6YO4jy6BMjG47fjkjG9mMXfVZIgPxtBRGi5cBDB17AoEY8F05serSsam9Q==",
+      "path": "system.linq.dynamic.core/1.4.4",
+      "hashPath": "system.linq.dynamic.core.1.4.4.nupkg.sha512"
     },
     "System.Linq.Expressions/4.1.0": {
       "type": "package",

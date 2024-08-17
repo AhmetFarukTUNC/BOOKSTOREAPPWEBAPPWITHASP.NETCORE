@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QN0x5vk/MY0=",
+  "dgSpecHash": "cHTbYlmSpKg=",
   "success": true,
   "projectFilePath": "C:\\Users\\atunc\\OneDrive\\Masaüstü\\asp.net-core-ile-web-api\\bsStoreApp\\Services\\Services.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "C:\\Users\\atunc\\.nuget\\packages\\nlog.extensions.logging\\5.1.0\\nlog.extensions.logging.5.1.0.nupkg.sha512",
     "C:\\Users\\atunc\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\atunc\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\atunc\\.nuget\\packages\\system.linq.dynamic.core\\1.4.4\\system.linq.dynamic.core.1.4.4.nupkg.sha512",
     "C:\\Users\\atunc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []

@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Entities/1.0.0": {
+        "dependencies": {
+          "System.Linq.Dynamic.Core": "1.4.4"
+        },
         "runtime": {
           "Entities.dll": {}
+        }
+      },
+      "System.Linq.Dynamic.Core/1.4.4": {
+        "runtime": {
+          "lib/net6.0/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.4.4.0",
+            "fileVersion": "1.4.4.0"
+          }
         }
       }
     }
@@ -18,6 +29,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "System.Linq.Dynamic.Core/1.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H7WMBX/WNdG38QLwvuD26EcsIjiP6YO4jy6BMjG47fjkjG9mMXfVZIgPxtBRGi5cBDB17AoEY8F05serSsam9Q==",
+      "path": "system.linq.dynamic.core/1.4.4",
+      "hashPath": "system.linq.dynamic.core.1.4.4.nupkg.sha512"
     }
   }
 }

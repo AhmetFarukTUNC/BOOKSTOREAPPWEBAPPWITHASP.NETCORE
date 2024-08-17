@@ -162,3 +162,4 @@ C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\ob
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\obj\Debug\net6.0\WebApi.pdb
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
