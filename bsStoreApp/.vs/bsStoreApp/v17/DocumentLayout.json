@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\atunc\\OneDrive\\Masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsStoreApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3E370A53-E2D0-4AC1-998C-41C89196AD1A}|Presentation\\Presentation.csproj|c:\\users\\atunc\\onedrive\\masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsstoreapp\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E370A53-E2D0-4AC1-998C-41C89196AD1A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24499799-514D-42FC-BDDD-2D849C45F168}|Services\\Services.csproj|c:\\users\\atunc\\onedrive\\masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsstoreapp\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24499799-514D-42FC-BDDD-2D849C45F168}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97303A75-D240-4738-9007-89B35825BBCE}|Repositories\\Repositories.csproj|c:\\users\\atunc\\onedrive\\masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsstoreapp\\repositories\\efcore\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97303A75-D240-4738-9007-89B35825BBCE}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24499799-514D-42FC-BDDD-2D849C45F168}|Services\\Services.csproj|c:\\users\\atunc\\onedrive\\masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsstoreapp\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24499799-514D-42FC-BDDD-2D849C45F168}|Services\\Services.csproj|solutionrelative:services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,58 +66,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\atunc\\OneDrive\\Masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsStoreApp\\Presentation\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\atunc\\OneDrive\\Masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsStoreApp\\Presentation\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\BooksController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAewB0AAABkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T18:25:06.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceManager.cs",
-              "DocumentMoniker": "C:\\Users\\atunc\\OneDrive\\Masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsStoreApp\\Services\\ServiceManager.cs",
-              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
-              "ToolTip": "C:\\Users\\atunc\\OneDrive\\Masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsStoreApp\\Services\\ServiceManager.cs",
-              "RelativeToolTip": "Services\\ServiceManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T18:23:54.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\atunc\\OneDrive\\Masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\EFCore\\BookRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EFCore\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\atunc\\OneDrive\\Masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsStoreApp\\Repositories\\EFCore\\BookRepository.cs",
-              "RelativeToolTip": "Repositories\\EFCore\\BookRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAMwBYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T18:23:14.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookManager.cs",
-              "DocumentMoniker": "C:\\Users\\atunc\\OneDrive\\Masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsStoreApp\\Services\\BookManager.cs",
-              "RelativeDocumentMoniker": "Services\\BookManager.cs",
-              "ToolTip": "C:\\Users\\atunc\\OneDrive\\Masa\u00FCst\u00FC\\asp.net-core-ile-web-api\\bsStoreApp\\Services\\BookManager.cs",
-              "RelativeToolTip": "Services\\BookManager.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAjwEQAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T18:19:30.523Z",
-              "EditorCaption": ""
             }
           ]
         },
