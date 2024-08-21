@@ -69,6 +69,10 @@ namespace WebApi.Extensions
 
                     systemTextJsonOutputFormatter.SupportedMediaTypes.Add("application/vnd.ahmettunc.hateoas+json");
 
+                    systemTextJsonOutputFormatter.SupportedMediaTypes.Add("application/vnd.ahmettunc.apiroot+json");
+
+                    
+
                 }
 
                 var xmlOutputFormatter = config
@@ -80,6 +84,9 @@ namespace WebApi.Extensions
 
                     xmlOutputFormatter.SupportedMediaTypes
                     .Add("application/vnd.ahmettunc.hateoas+xml");
+
+                    xmlOutputFormatter.SupportedMediaTypes
+                    .Add("application/vnd.ahmettunc.apiroot+xml");
 
                 }
 
