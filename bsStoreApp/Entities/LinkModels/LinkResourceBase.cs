@@ -1,14 +1,14 @@
 ﻿namespace Entities.LinkModels
 {
-    public class LinkSourceBase
+    public class LinkResourceBase
     {
-
-        public LinkSourceBase()
+        public LinkResourceBase()
         {
 
         }
 
         public List<Link> Links { get; set; } = new List<Link>();
     }
-
+   
+        
 }

@@ -23,9 +23,6 @@ namespace Entities.RequestFeatures
 		}
 
 		public String? OrderBy { get; set; }
-
-		// FOR DATA SHAPİNG
-
 		public String? Fields { get; set; }
 
 	}

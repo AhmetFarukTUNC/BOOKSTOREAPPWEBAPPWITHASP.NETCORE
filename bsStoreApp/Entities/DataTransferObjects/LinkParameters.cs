@@ -1,6 +1,5 @@
 ﻿using Entities.RequestFeatures;
 using Microsoft.AspNetCore.Http;
-using System.Net.Http;
 
 namespace Entities.DataTransferObjects
 {

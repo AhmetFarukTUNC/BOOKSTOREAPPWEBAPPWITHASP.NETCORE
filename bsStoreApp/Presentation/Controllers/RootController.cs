@@ -11,7 +11,6 @@ namespace Presentation.Controllers
 {
     [ApiController]
     [Route("api")]
-    [ApiExplorerSettings(GroupName = "v1")]
     public class RootController : ControllerBase
     {
         private readonly LinkGenerator _linkGenerator;
@@ -22,9 +21,9 @@ namespace Presentation.Controllers
         }
 
         [HttpGet(Name = "GetRoot")]
-        public async Task<IActionResult> GetRoot([FromHeader(Name = "Accept")] string mediaType)
+        public async Task<IActionResult> GetRoot([FromHeader(Name ="Accept")] string mediaType)
         {
-            if (mediaType.Contains("application/vnd.ahmettunc.apiroot"))
+            if (mediaType.Contains("application/vnd.btkakademi.apiroot"))
             {
                 var list = new List<Link>()
                 {

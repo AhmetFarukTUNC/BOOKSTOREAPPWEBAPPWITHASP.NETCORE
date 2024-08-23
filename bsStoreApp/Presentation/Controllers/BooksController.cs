@@ -2,6 +2,7 @@
 using Entities.Exceptions;
 using Entities.Models;
 using Entities.RequestFeatures;
+using Marvin.Cache.Headers;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using Presentation.ActionFilters;
@@ -15,9 +16,15 @@ using System.Threading.Tasks;
 
 namespace Presentation.Controllers
 {
+    
+    [ApiExplorerSettings(GroupName = "v1")]
     [ServiceFilter(typeof(LogFilterAttribute))]
     [ApiController]
-    [Route("api/books")]
+    [Route("api/{v:apiversion}/books")]
+    //[ResponseCache(CacheProfileName ="5mins")]
+    //[HttpCacheExpiration(CacheLocation = CacheLocation.Public, MaxAge = 80)]
+
+
     public class BooksController : ControllerBase
     {
         private readonly IServiceManager _manager;
@@ -26,34 +33,28 @@ namespace Presentation.Controllers
             _manager = manager;
         }
 
-
         [HttpHead]
-        [HttpGet(Name ="GetAllBooksAsync")]
+        [HttpGet(Name = "GetAllBooksAsync")]
         [ServiceFilter(typeof(ValidateMediaTypeAttribute))]
+        [ResponseCache(Duration = 60)]
         public async Task<IActionResult> GetAllBooksAsync([FromQuery] BookParameters bookParameters)
         {
-
             var linkParameters = new LinkParameters()
             {
-
                 BookParameters = bookParameters,
-
                 HttpContext = HttpContext
-
             };
 
             var result = await _manager
                 .BookService
-                .GetAllBooksAsync(linkParameters,false);
+                .GetAllBooksAsync(linkParameters, false);
 
             Response.Headers.Add("X-Pagination", 
                 JsonSerializer.Serialize(result.metaData));
 
-            return result.linkResponse.HasLinks ? 
+            return result.linkResponse.HasLinks ?
                 Ok(result.linkResponse.LinkedEntities) :
                 Ok(result.linkResponse.ShapedEntities);
-
-            
         }
 
         [HttpGet("{id:int}")]
@@ -67,7 +68,7 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPost(Name ="CreateOneBookAsync")]
+        [HttpPost(Name = "CreateOneBookAsync")]
         public async Task<IActionResult> CreateOneBookAsync([FromBody] BookDtoForInsertion bookDto)
         {
             var book = await _manager.BookService.CreateOneBookAsync(bookDto);
@@ -115,15 +116,10 @@ namespace Presentation.Controllers
         }
 
         [HttpOptions]
-
-        public IActionResult GetBooksOptions() 
+        public IActionResult GetBooksOptions()
         {
-
             Response.Headers.Add("Allow", "GET, PUT, POST, PATCH, DELETE, HEAD, OPTIONS");
-
             return Ok();
-
         }
-
     }
 }

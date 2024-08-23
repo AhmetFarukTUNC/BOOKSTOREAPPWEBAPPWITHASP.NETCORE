@@ -1,3 +1,4 @@
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\nlog.config
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\appsettings.Development.json
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\appsettings.json
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\WebApi.exe
@@ -5,6 +6,8 @@ F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\W
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\WebApi.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\WebApi.pdb
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\AutoMapper.dll
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Humanizer.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
@@ -26,12 +29,15 @@ F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\M
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\NLog.dll
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\NLog.Extensions.Logging.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
@@ -72,11 +78,7 @@ F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\obj\Debug\net6.0\r
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\obj\Debug\net6.0\WebApi.pdb
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\obj\Debug\net6.0\ref\WebApi.dll
-F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\nlog.config
-F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\NLog.dll
-F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\NLog.Extensions.Logging.dll
-F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\AutoMapper.dll
-F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Courses\AspDotnetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\nlog.config
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\appsettings.json
@@ -90,6 +92,7 @@ C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bi
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Humanizer.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -116,6 +119,7 @@ C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bi
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
@@ -162,4 +166,7 @@ C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\ob
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\obj\Debug\net6.0\WebApi.pdb
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\obj\Debug\net6.0\ref\WebApi.dll
-C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Marvin.Cache.Headers.dll
+C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

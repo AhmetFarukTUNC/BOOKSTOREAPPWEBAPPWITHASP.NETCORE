@@ -46,13 +46,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Http.Abstractions": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
               "target": "Package",
               "version": "[2.2.0, )"
-            },
-            "System.Linq.Dynamic.Core": {
-              "target": "Package",
-              "version": "[1.4.4, )"
             }
           },
           "imports": [
@@ -127,7 +123,7 @@
             },
             "System.Linq.Dynamic.Core": {
               "target": "Package",
-              "version": "[1.4.4, )"
+              "version": "[1.2.23, )"
             }
           },
           "imports": [
