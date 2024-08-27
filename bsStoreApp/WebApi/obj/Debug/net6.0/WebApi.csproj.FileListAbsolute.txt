@@ -170,3 +170,4 @@ C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bi
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\atunc\OneDrive\Masaüstü\asp.net-core-ile-web-api\bsStoreApp\WebApi\bin\Debug\net6.0\AspNetCoreRateLimit.dll
