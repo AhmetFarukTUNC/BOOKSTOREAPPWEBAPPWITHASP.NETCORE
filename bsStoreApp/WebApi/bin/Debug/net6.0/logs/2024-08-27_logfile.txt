@@ -1,3 +1,0 @@
-2024-08-27 09:28:50.5588 INFO {"ModelModel":"OnActionExecuting","Controller":"Books","Action":null,"Id":null,"CreateAt":"2024-08-27T06:28:50.4958527Z"}
-2024-08-27 09:30:39.2446 INFO {"ModelModel":"OnActionExecuting","Controller":"Books","Action":null,"Id":null,"CreateAt":"2024-08-27T06:30:39.2445904Z"}
-2024-08-27 09:41:13.3814 INFO {"ModelModel":"OnActionExecuting","Controller":"Books","Action":null,"Id":null,"CreateAt":"2024-08-27T06:41:13.3814259Z"}
